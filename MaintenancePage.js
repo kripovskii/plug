@@ -13,7 +13,7 @@ export default class MaintenancePage {
        
         'Благодарим вас за ваше терпение и понимание.',
         'С наилучшими пожеланиями,',
-        'ITExplorer'
+        'IT Explorer'
       ];
   
       paragraphs.forEach(text => {
